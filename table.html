@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+	<head>
+		<title>DMA Project</title>
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
+		<link href="table.css" rel="stylesheet">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"crossorigin="anonymous"></script>
+	</head>
+	<body class="d-flex flex-column h-100 container">
+		<header>
+			<nav class="navbar navbar-expand-lg navbar-light bg-light">
+			  <div class="container-fluid">
+				<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+				  <div class="navbar-nav">
+					<a id="test1" class="nav-link active" id="activestuff" aria-current="page" href="#">View Records </a>
+					<a id="test2" class="nav-link " href="add.html">Add New</a>
+					<a id="test3" class="nav-link " href="index.html">Home</a>
+				  </div>
+				</div>
+			  </div>
+			</nav>
+		</header>
+		
+		<table class="table table-striped table-hover text-center">
+			<thead>
+				    <th scope="col">Flat Number</th>
+                    <th scope="col">First Name</th>
+                    <th scope="col">Last Name</th>
+                    <th scope="col">Phone</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">Action</th>
+			</thead>
+			<tbody id="tbody">
+				
+			</tbody>
+		</table>
+		
+
+	</body>
+	<script src="script.js"></script>
+	<script>
+		getData();
+	</script>
+</html>

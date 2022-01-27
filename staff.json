@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "610ae29b8ab93719206398e0",
+    "jobTitleName": "Professor",
+    "name": "rohit Sharma",
+    "branch": "IT",
+    "employeeCode": "E1",
+    "phoneNumber": "8693643561",
+    "emailID": "rohan@gmail.com",
+    "password": "123456",
+    "announcements":[
+        
+    ],
+    "notes":{
+        "name":"",
+        "desc":"",
+        "img":{
+            "data":"",
+            "contentType":""
+            
+        }
+    }
+  },
+  {
+    "_id": "6109f224448a911bf8a0f7fa",
+    "jobTitleName": "T&P Officer Professor",
+    "name": "Ravi Shastri",
+    "branch": "ELEX",
+    "employeeCode": "E2",
+    "phoneNumber": "7032157261",
+    "emailID": "ravishastri@gmail.com",
+    "password": "123456",
+    "announcements":[
+      
+  ],
+  "notes":{
+      "name":"",
+      "desc":"",
+      "img":{
+          "data":"",
+          "contentType":""
+          
+      }
+  }
+  },
+  {
+    "_id": "6109f24b448a911bf8a0f7fb",
+    "jobTitleName": "Assistant Professor",
+    "name": "Riya Khandare",
+    "branch": "COMP",
+    "employeeCode": "E3",
+    "phoneNumber": "9865124785",
+    "emailID": "riyakhandare151@gmail.com",
+    "password": "123456",
+    "announcements":[
+      
+  ],
+  "notes":{
+      "name":"",
+      "desc":"",
+      "img":{
+          "data":"",
+          "contentType":""
+          
+      }
+  }
+  },
+  {
+    "_id": "6109f2fa448a911bf8a0f7fc",
+    "jobTitleName": "H.O.D.",
+    "name": "Vipul Shah",
+    "branch": "MECH",
+    "employeeCode": "E4",
+    "phoneNumber": "9421685347",
+    "emailID": "vipul777@gmail.com",
+    "password": "123456",
+    "announcements":[
+      
+  ],
+  "notes":{
+      "name":"",
+      "desc":"",
+      "img":{
+          "data":"",
+          "contentType":""
+          
+      }
+  }
+  },
+  {
+    "_id": "6109f301448a911bf8a0f7fd",
+    "jobTitleName": "Deputy H.O.D. (IT),Associate Professor ",
+    "name": "Ajay Singh",
+    "branch": "IT",
+    "employeeCode": "E5",
+    "phoneNumber": "7816853470",
+    "emailID": "ajaysingh@gmail.com",
+    "password": "123456",
+    "announcements":[
+      
+  ],
+  "notes":{
+      "name":"",
+      "desc":"",
+      "img":{
+          "data":"",
+          "contentType":""
+          
+      }
+  }
+  }
+]
